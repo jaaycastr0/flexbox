@@ -1,0 +1,15 @@
+header{
+    text-align: center;
+}
+img { 
+    height: 300px; 
+    max-width: 300px;
+}
+
+.flex-container {
+    justify-content: center; /* Centraliza os elementos horizontalmente */
+    align-items: center; 
+    display: flex;
+    flex-wrap: wrap;
+    
+}

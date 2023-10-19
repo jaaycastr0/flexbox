@@ -1,0 +1,19 @@
+body{
+    background-color: #110b1b;
+}
+header{
+    text-align: center;
+    padding: 20px 20px;
+    background-color: #422463 ;
+    color: aliceblue;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 50vh;
+}
+button{
+    margin: 10px;
+}
